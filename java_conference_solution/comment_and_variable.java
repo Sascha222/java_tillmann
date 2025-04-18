@@ -3,7 +3,7 @@ public class comment_and_variable {
 
         String conference_name = "Java conference";
         final int available_conference_tickets = 50;
-        int rest_tickets = 20;
+        int rest_tickets = 30;
 
         System.out.println("Welcome to our " + conference_name);
         System.out.println("We have " + available_conference_tickets + " tickets available in sum");
